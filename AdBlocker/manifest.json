@@ -1,7 +1,7 @@
 {
-    "name": "DevSage Adblocker",
+    "name": "Josiah Adblocking",
     "version": "1.0",
-    "description": "DevSage Adblocker Tutorial",
+    "description": "-- Help From Devsage -- Get your annoying ads out of the way! ",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
